@@ -1,0 +1,17 @@
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\bin\Debug\net6.0\ProyectoCRUD.BLL.deps.json
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\bin\Debug\net6.0\ProyectoCRUD.BLL.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\bin\Debug\net6.0\ProyectoCRUD.BLL.pdb
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\ProyectoCRUD.BLL.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\ProyectoCRUD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\ProyectoCRUD.BLL.AssemblyInfoInputs.cache
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\ProyectoCRUD.BLL.AssemblyInfo.cs
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\ProyectoCRUD.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\ProyectoCRUD.BLL.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\refint\ProyectoCRUD.BLL.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\ProyectoCRUD.BLL.pdb
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\ref\ProyectoCRUD.BLL.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\bin\Debug\net6.0\ProyectoCRUD.DAL.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\bin\Debug\net6.0\ProyectoCRUD.Models.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\bin\Debug\net6.0\ProyectoCRUD.DAL.pdb
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\bin\Debug\net6.0\ProyectoCRUD.Models.pdb
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.BLL\obj\Debug\net6.0\ProyectoCRUD.BLL.csproj.CopyComplete

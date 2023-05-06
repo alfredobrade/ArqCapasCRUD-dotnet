@@ -1,0 +1,17 @@
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\bin\Debug\net6.0\ProyectoCRUD.DAL.deps.json
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\bin\Debug\net6.0\ProyectoCRUD.DAL.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\bin\Debug\net6.0\ProyectoCRUD.DAL.pdb
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ProyectoCRUD.DAL.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ProyectoCRUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ProyectoCRUD.DAL.AssemblyInfoInputs.cache
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ProyectoCRUD.DAL.AssemblyInfo.cs
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ProyectoCRUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ProyectoCRUD.DAL.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\refint\ProyectoCRUD.DAL.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ProyectoCRUD.DAL.pdb
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ref\ProyectoCRUD.DAL.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\bin\Debug\net6.0\ProyectoCRUD.DAL.runtimeconfig.json
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ProyectoCRUD.DAL.genruntimeconfig.cache
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\bin\Debug\net6.0\ProyectoCRUD.Models.dll
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\bin\Debug\net6.0\ProyectoCRUD.Models.pdb
+C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.DAL\obj\Debug\net6.0\ProyectoCRUD.DAL.csproj.CopyComplete
