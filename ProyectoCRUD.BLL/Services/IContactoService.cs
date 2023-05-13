@@ -14,7 +14,7 @@ namespace ProyectoCRUD.BLL.Services
         //Task<bool> Delete(Contacto model);
         Task<bool> Delete(int id);
         Task<Contacto> Get(int id);
-        Task<IQueryable<Contacto>> GetAll(); //usamos IQuerable porque usamos recursos de base de datos
+        Task<IEnumerable<Contacto>> GetAll(); //usamos IQuerable porque usamos recursos de base de datos
 
 
         Task<Contacto> GetByName(string name);

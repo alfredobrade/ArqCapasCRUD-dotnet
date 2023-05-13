@@ -10,3 +10,15 @@ C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\ne
 C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\refint\ProyectoCRUD.Models.dll
 C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ProyectoCRUD.Models.pdb
 C:\Users\alfre\source\repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ref\ProyectoCRUD.Models.dll
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\bin\Debug\net6.0\ProyectoCRUD.Models.deps.json
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\bin\Debug\net6.0\ProyectoCRUD.Models.dll
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\bin\Debug\net6.0\ProyectoCRUD.Models.pdb
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ProyectoCRUD.Models.csproj.AssemblyReference.cache
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ProyectoCRUD.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ProyectoCRUD.Models.AssemblyInfoInputs.cache
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ProyectoCRUD.Models.AssemblyInfo.cs
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ProyectoCRUD.Models.csproj.CoreCompileInputs.cache
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ProyectoCRUD.Models.dll
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\refint\ProyectoCRUD.Models.dll
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ProyectoCRUD.Models.pdb
+C:\Users\corre\OneDrive\Repos\ArqCapasCRUD-dotnet\ProyectoCRUD.Models\obj\Debug\net6.0\ref\ProyectoCRUD.Models.dll

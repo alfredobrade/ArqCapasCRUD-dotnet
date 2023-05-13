@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProyectoCRUD.BLL",
+    "\\ProyectoCRUD.BLL\\Services",
+    "\\ProyectoCRUD.DAL",
+    "\\ProyectoCRUD.DAL\\DataContext",
+    "\\ProyectoCRUD.DAL\\Repository",
+    "\\ProyectoCRUD.WebApplication",
+    "\\ProyectoCRUD.WebApplication\\Controllers",
+    "\\ProyectoCRUD.WebApplication\\Models",
+    "\\ProyectoCRUD.WebApplication\\Models\\ViewModels"
+  ],
+  "SelectedNode": "\\ArqCapasCRUD-dotnet.sln",
+  "PreviewInSolutionExplorer": false
+}

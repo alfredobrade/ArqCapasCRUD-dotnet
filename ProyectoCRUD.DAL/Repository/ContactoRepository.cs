@@ -6,21 +6,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace ProyectoCRUD.DAL.Repository
 {
-    public class ContactoRepository : IGenericRepository<Contacto>
+    public class ContactoRepository : GenericRepository<Contacto>
     {
-        private readonly CeCrudArqcapasContext _dbcontext;
-
+        
+       // private readonly CeCrudArqcapasContext _dbcontext;
+        
+        
         public ContactoRepository(CeCrudArqcapasContext dbContext)
+            : base(dbContext)
         {
-            _dbcontext = dbContext;
+            //_dbcontext = dbContext;
         }
-       
+        
+        /*
 
         public async Task<bool> Delete(int id)
         {
-            Contacto model = _dbcontext.Contactos.First(p => p.IdContacto == id);
+            Contacto model = _dbcontext.Contactos.First(p => p.Id == id);
             _dbcontext.Contactos.Remove(model);
             await _dbcontext.SaveChangesAsync();
             return true;
@@ -31,9 +36,10 @@ namespace ProyectoCRUD.DAL.Repository
             return await _dbcontext.Contactos.FindAsync(id);
         }
 
-        public async Task<IQueryable<Contacto>> GetAll()
+        public <IQueryable<Contacto> GetAll()
         {
             IQueryable<Contacto> queryContactoSQL = _dbcontext.Contactos;
+            
             return queryContactoSQL;
         }
 
@@ -50,5 +56,6 @@ namespace ProyectoCRUD.DAL.Repository
             await _dbcontext.SaveChangesAsync();
             return true;
         }
+        */
     }
 }

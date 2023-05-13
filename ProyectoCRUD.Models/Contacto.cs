@@ -3,9 +3,8 @@ using System.Collections.Generic;
 
 namespace ProyectoCRUD.Models;
 
-public partial class Contacto
+public partial class Contacto : BaseEntity
 {
-    public int IdContacto { get; set; }
 
     public string? Nombre { get; set; }
 

@@ -1,4 +1,5 @@
-﻿using ProyectoCRUD.DAL.Repository;
+﻿using Microsoft.EntityFrameworkCore;
+using ProyectoCRUD.DAL.Repository;
 using ProyectoCRUD.Models;
 using System;
 using System.Collections.Generic;
@@ -27,15 +28,15 @@ namespace ProyectoCRUD.BLL.Services
             return await _contactRepo.Get(id);
         }
 
-        public async Task<IQueryable<Contacto>> GetAll()
+        public async Task<IEnumerable<Contacto>> GetAll()
         {
-            return await _contactRepo.GetAll();
+            return await _contactRepo.GetAll().ToListAsync();
         }
         //este es el unico metodo que no esta en la capa de repository
         public async Task<Contacto> GetByName(string name)
         {
-            IQueryable<Contacto> queryContactoSQL = await _contactRepo.GetAll();
-            Contacto contacto = queryContactoSQL.Where(p => p.Nombre == name).FirstOrDefault();
+            IQueryable<Contacto> queryContactoSQL = _contactRepo.GetAll();
+            Contacto contacto = await queryContactoSQL.FirstOrDefaultAsync(p => p.Nombre == name);
             return contacto;
         }
 

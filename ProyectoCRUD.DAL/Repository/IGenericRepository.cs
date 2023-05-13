@@ -13,7 +13,7 @@ namespace ProyectoCRUD.DAL.Repository
         //Task<bool> Delete(TEntityModel model);
         Task<bool> Delete(int id);
         Task<TEntityModel> Get(int id);
-        Task<IQueryable<TEntityModel>> GetAll(); //usamos IQuerable porque usamos recursos de base de datos
+        IQueryable<TEntityModel> GetAll(); //usamos IQuerable porque usamos recursos de base de datos
 
     }
 }

@@ -30,7 +30,7 @@ namespace ProyectoCRUD.WebApplication.Controllers
             List<VMContacto> list = queryContactoSQL
                 .Select(c => new VMContacto()
                 {
-                    IdContacto = c.IdContacto,
+                    IdContacto = c.Id,
                     Nombre = c.Nombre,
                     Telefono = c.Telefono,
                     FechaNacimiento = c.FechaNacimiento.Value.ToString("dd/MM/yyy")
@@ -60,7 +60,7 @@ namespace ProyectoCRUD.WebApplication.Controllers
         {
             Contacto NewModel = new Contacto()
             {
-                IdContacto = modelo.IdContacto,
+                Id = modelo.IdContacto,
                 Nombre = modelo.Nombre,
                 Telefono = modelo.Telefono,
                 FechaNacimiento = DateTime.ParseExact(modelo.FechaNacimiento, "dd/mm/yyyy", CultureInfo.CreateSpecificCulture("es-AR")) //buscar lista de culturas en documentacion de MS

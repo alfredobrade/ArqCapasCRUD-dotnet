@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alfre\\.nuget\\packages\\": {}
+    "C:\\Users\\corre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfre\\source\\repos\\ArqCapasCRUD-dotnet\\ProyectoCRUD.Models\\ProyectoCRUD.Models.csproj",
+      "projectUniqueName": "C:\\Users\\corre\\source\\repos\\ArqCapasCRUD-dotnet\\ProyectoCRUD.Models\\ProyectoCRUD.Models.csproj",
       "projectName": "ProyectoCRUD.Models",
-      "projectPath": "C:\\Users\\alfre\\source\\repos\\ArqCapasCRUD-dotnet\\ProyectoCRUD.Models\\ProyectoCRUD.Models.csproj",
-      "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfre\\source\\repos\\ArqCapasCRUD-dotnet\\ProyectoCRUD.Models\\obj\\",
+      "projectPath": "C:\\Users\\corre\\source\\repos\\ArqCapasCRUD-dotnet\\ProyectoCRUD.Models\\ProyectoCRUD.Models.csproj",
+      "packagesPath": "C:\\Users\\corre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\corre\\source\\repos\\ArqCapasCRUD-dotnet\\ProyectoCRUD.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alfre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\corre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

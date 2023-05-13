@@ -1,0 +1,3 @@
+- en Repository faltaba crear la clase Generica que implementa la interfaz generica y en el repositorio de contacto se hereda de la clase generica de tipo <Modelo>
+- en el connection string hay que poner el server name dependiendo de la edision de sql server que se descarga
+- 
